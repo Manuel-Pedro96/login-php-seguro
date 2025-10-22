@@ -2,7 +2,7 @@
 
 $host = "localhost";
 $user = "root";
-$pass = "Mp211996&&#04";
+$pass = "SUA_SENHA_AQUI";
 $dbname = "login_seguro_db";
 
 try {
