@@ -1,0 +1,10 @@
+# Arquivos de Sistema
+.DS_Store
+Thumbs.db
+.vscode/
+
+# CONFIGURAÇÃO DE BANCO DE DADOS LOCAL (CONTÉM CREDENCIAIS REAIS)
+db.php
+
+# Pastas de dependências
+/vendor/
